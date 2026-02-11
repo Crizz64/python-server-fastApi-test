@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from app.routes import (
+from app.routers import (
     patente,
     pedido,
     callbacks,
